@@ -10,7 +10,8 @@
         "url": "https://github.com/soramitsukhmer/vscode-frontend-pack"
     },
     "scripts": {
-        "vsce": "vsce"
+        "vsce": "vsce",
+        "package": "vsce package"
     },
     "engines": {
         "vscode": "^1.63.0"
