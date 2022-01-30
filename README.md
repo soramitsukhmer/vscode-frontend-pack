@@ -13,6 +13,6 @@ By installing Extension Pack for Java, the following extensions are installed:
 * 📦 EditorConfig for VS Code
 
 ### License
-(MIT)[LICENSE]
+[MIT](LICENSE)
 
 Happy Coding!
