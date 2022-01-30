@@ -1,5 +1,7 @@
 # README
 
+VS Code extensions for Frontend developers.
+
 ## This is the README for your extension pack "vscode-frontend-pack"
 
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
