@@ -3,6 +3,9 @@
     "displayName": "Soramitsu Khmer's Extension Pack for Frontend Developers",
     "description": "Soramitsu Khmer's Extension Pack for Frontend Developers",
     "version": "0.1.0",
+    "scripts": {
+        "vsce": "vsce"
+    },
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -18,5 +21,8 @@
         "octref.vetur",
         "johnsoncodehk.volar",
         "eamodio.gitlens"
-    ]
+    ],
+    "devDependencies": {
+        "vsce": "^2.6.5"
+    }
 }
