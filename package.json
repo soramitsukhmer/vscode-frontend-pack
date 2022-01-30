@@ -3,6 +3,7 @@
     "displayName": "Soramitsu Khmer's Extension Pack for Frontend Developers",
     "description": "Soramitsu Khmer's Extension Pack for Frontend Developers",
     "version": "0.1.0",
+    "publisher": "soramitsukhmer",
     "repository": "soramitsukhmer/vscode-frontend-pack",
     "scripts": {
         "vsce": "vsce"
@@ -11,7 +12,9 @@
         "vscode": "^1.63.0"
     },
     "categories": [
-        "Extension Packs"
+        "Extension Packs",
+        "Programming Languages",
+        "Linters"
     ],
     "extensionPack": [
         "EditorConfig.EditorConfig",
