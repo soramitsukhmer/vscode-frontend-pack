@@ -27,9 +27,9 @@
         "esbenp.prettier-vscode",
         "dbaeumer.vscode-eslint",
         "wix.vscode-import-cost",
-        "octref.vetur",
         "johnsoncodehk.volar",
-        "eamodio.gitlens"
+        "eamodio.gitlens",
+        "usernamehw.errorlens"
     ],
     "devDependencies": {
         "vsce": "^2.6.5"
