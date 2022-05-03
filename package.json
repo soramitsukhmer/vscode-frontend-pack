@@ -12,6 +12,7 @@
     "scripts": {
         "vsce": "vsce",
         "package": "vsce package",
+        "prebuild": "yarn version",
         "build": "vsce package"
     },
     "engines": {
