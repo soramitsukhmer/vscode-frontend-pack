@@ -11,7 +11,8 @@
     },
     "scripts": {
         "vsce": "vsce",
-        "package": "vsce package"
+        "package": "vsce package",
+        "build": "vsce package"
     },
     "engines": {
         "vscode": "^1.63.0"
