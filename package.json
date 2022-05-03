@@ -27,7 +27,8 @@
         "esbenp.prettier-vscode",
         "dbaeumer.vscode-eslint",
         "wix.vscode-import-cost",
-        "johnsoncodehk.volar",
+        "Vue.volar",
+        "Vue.vscode-typescript-vue-plugin",
         "eamodio.gitlens",
         "usernamehw.errorlens"
     ],
