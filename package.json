@@ -23,11 +23,13 @@
     ],
     "extensionPack": [
         "EditorConfig.EditorConfig",
+        "eamodio.gitlens",
+        "usernamehw.errorlens",
         "esbenp.prettier-vscode",
         "dbaeumer.vscode-eslint",
         "wix.vscode-import-cost",
-        "eamodio.gitlens",
-        "usernamehw.errorlens"
+        "aaron-bond.better-comments",
+        "SantaCodes.santacodes-region-viewer"
     ],
     "devDependencies": {
         "vsce": "^2.6.5"

@@ -12,6 +12,8 @@ The following extensions are installed:
 * 📦 ESLint
 * 📦 Prettier - Code formatter
 * 📦 EditorConfig for VS Code
+* 📦 Region Viewer
+* 📦 Better Comments
 
 ## Removed from Extension Pack
 
