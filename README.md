@@ -2,16 +2,17 @@
 
 By installing Extension Pack for Java, the following extensions are installed:
 
-* 📦 Language Support for Vue.js
-    - Vetur (Removed from Extension Pack)
-    - Vue Language Features (Volar)
 * 📦 GitLens — Git supercharged
 * 📦 Error Lens
 * 📦 Import Cost
 * 📦 ESLint
 * 📦 Prettier - Code formatter
-* 📦 DotENV
 * 📦 EditorConfig for VS Code
+
+Removed from Extension Pack
+
+* 📦 DotENV
+* 📦 Vue Language Features (Volar)
 
 ### License
 [MIT](LICENSE)
