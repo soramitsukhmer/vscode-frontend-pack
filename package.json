@@ -19,9 +19,7 @@
         "vscode": "^1.63.0"
     },
     "categories": [
-        "Extension Packs",
-        "Programming Languages",
-        "Linters"
+        "Extension Packs"
     ],
     "extensionPack": [
         "EditorConfig.EditorConfig",
