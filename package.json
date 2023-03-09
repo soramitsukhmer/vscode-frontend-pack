@@ -25,11 +25,9 @@
     ],
     "extensionPack": [
         "EditorConfig.EditorConfig",
-        "mikestead.dotenv",
         "esbenp.prettier-vscode",
         "dbaeumer.vscode-eslint",
         "wix.vscode-import-cost",
-        "Vue.volar",
         "eamodio.gitlens",
         "usernamehw.errorlens"
     ],
