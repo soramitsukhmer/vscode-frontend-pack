@@ -1,6 +1,10 @@
-# Extension Pack for Frontend Developers
+# About
 
-By installing Extension Pack for Java, the following extensions are installed:
+This is an internal Extension Pack for Soramitsu Khmer's Frontend team.
+
+## What's included?
+
+The following extensions are installed:
 
 * 📦 GitLens — Git supercharged
 * 📦 Error Lens
@@ -9,7 +13,9 @@ By installing Extension Pack for Java, the following extensions are installed:
 * 📦 Prettier - Code formatter
 * 📦 EditorConfig for VS Code
 
-Removed from Extension Pack
+## Removed from Extension Pack
+
+The following extensions are no longer available as part of the Extension Pack:
 
 * 📦 DotENV
 * 📦 Vue Language Features (Volar)
