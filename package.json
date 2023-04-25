@@ -30,7 +30,8 @@
         "wix.vscode-import-cost",
         "aaron-bond.better-comments",
         "SantaCodes.santacodes-region-viewer",
-        "yoavbls.pretty-ts-errors"
+        "yoavbls.pretty-ts-errors",
+        "socheatsok78-lab.dotenv-vscode-stripped"
     ],
     "devDependencies": {
         "vsce": "^2.6.5"
