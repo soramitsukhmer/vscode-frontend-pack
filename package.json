@@ -2,7 +2,7 @@
     "name": "vscode-frontend-pack",
     "displayName": "Soramitsu Khmer's Frontend Extension Pack",
     "description": "An internal Extension Pack for Soramitsu Khmer's Frontend team.",
-    "version": "0.4.0",
+    "version": "0.5.0",
     "icon": "logo.png",
     "publisher": "soramitsukhmer",
     "repository": {
