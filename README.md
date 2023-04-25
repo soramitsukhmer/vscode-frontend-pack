@@ -14,13 +14,8 @@ The following extensions are installed:
 * 📦 EditorConfig for VS Code
 * 📦 Region Viewer
 * 📦 Better Comments
-
-## Removed from Extension Pack
-
-The following extensions are no longer available as part of the Extension Pack:
-
-* 📦 DotENV
-* 📦 Vue Language Features (Volar)
+* 📦 Pretty TypeScript Errors
+* 📦 Dotenv (Stripped)
 
 ### License
 [MIT](LICENSE)
