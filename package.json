@@ -29,7 +29,8 @@
         "dbaeumer.vscode-eslint",
         "wix.vscode-import-cost",
         "aaron-bond.better-comments",
-        "SantaCodes.santacodes-region-viewer"
+        "SantaCodes.santacodes-region-viewer",
+        "yoavbls.pretty-ts-errors"
     ],
     "devDependencies": {
         "vsce": "^2.6.5"
